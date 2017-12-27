@@ -1,2 +1,2 @@
-# Ethereum-Voting
-a simple voting on ethereum
+# Ethereum-Samples
+some dapp samples (Voting, Blind Auction)
